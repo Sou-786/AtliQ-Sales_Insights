@@ -43,8 +43,9 @@ Sales database
 
 ● Transactions Table - product code, customer code, market code, order date, sales
 quantity, sales amount ,currency.
-## Demo
 
+## Demo
+<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/mSW7hCCAHFMC3Onqia/giphy.gif?cid=790b7611ca590038a22c01b38d3da43ab0d087e41f27dd08&rid=giphy.gif&ct=g">
 
 ## Tools Used
 
